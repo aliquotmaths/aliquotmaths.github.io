@@ -1,0 +1,11 @@
+@charset "utf-8";
+
+// Define defaults for each variable.
+
+$body-font-family: Roboto Slab, serif;
+$heading-font-family: Rubik, sans-serif;
+
+// Import partials.
+@import
+  "custom/base"
+;
